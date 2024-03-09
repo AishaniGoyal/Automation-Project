@@ -1,4 +1,4 @@
-# Automation-Project
+# Smart Preserver
 In this arduino based project, a prototype has been built for a smart preserver that can inevitably monitor and regulate the temperature and humidity levels to safeguard that food is stocked in optimum environments.
 
 # Working
